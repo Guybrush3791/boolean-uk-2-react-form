@@ -11,3 +11,7 @@ never use style attribute in HTML
 ## Focus
 
 Simplicity and implementation speed are paramount
+
+## Form
+
+I want to use controlled form all the time
