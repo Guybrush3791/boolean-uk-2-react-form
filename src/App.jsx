@@ -6,9 +6,9 @@ function App() {
 
   return (
     <main className="app">
-      <h1 className="title">Complaining form!</h1>
+      <h1 className="title">*** Complaining form! ***</h1>
       <form className="complaint-form" action="#" method="post">
-        <div className="form-grid">
+        <div className="form-grid two-columns">
           <div className="left">
             <div className="form-field">
               <label htmlFor="fullName">Full name</label>
