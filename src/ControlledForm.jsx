@@ -3,7 +3,6 @@ import './App.css';
 
 function ControlledForm() {
   
-    // complete form status variable
     const [formData, setFormData] = useState({
         fullName: '',
         address: '',
@@ -21,8 +20,6 @@ function ControlledForm() {
         }))
     }
 
-    // create an handle submit function that will
-    // pack all input data and log it to the console
     const handleSubmit = (e) => {
         e.preventDefault();
 
