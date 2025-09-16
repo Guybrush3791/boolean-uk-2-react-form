@@ -1,0 +1,6 @@
+dark-mode: true
+no-stream: true
+cache-prompts: true
+
+editor: 'code-insiders --wait'
+read: ['aider-memory/constraints.md', 'aider-memory/tasks.md']
